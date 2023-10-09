@@ -1,0 +1,114 @@
+[
+    {
+        "TransactionID": 1,
+        "Games": [
+            "Simulation Game",
+            "Platformer Game"
+        ],
+        "Amount": 39.91,
+        "PurchaseDate": "2023-09-28",
+        "Discount": 0.09
+    },
+    {
+        "TransactionID": 2,
+        "Games": [
+            "Shooter Game",
+            "Platformer Game"
+        ],
+        "Amount": 89.62,
+        "PurchaseDate": "2023-09-1",
+        "Discount": 0.13
+    },
+    {
+        "TransactionID": 3,
+        "Games": [
+            "Platformer Game",
+            "Racing Game",
+            "Simulation Game",
+            "Role-Playing Game"
+        ],
+        "Amount": 70.75,
+        "PurchaseDate": "2023-09-23",
+        "Discount": 0.25
+    },
+    {
+        "TransactionID": 4,
+        "Games": [
+            "Horror Game",
+            "Simulation Game",
+            "Puzzle Game"
+        ],
+        "Amount": 62.28,
+        "PurchaseDate": "2023-09-14",
+        "Discount": 0.27
+    },
+    {
+        "TransactionID": 5,
+        "Games": [
+            "Horror Game",
+            "Puzzle Game",
+            "Action Game",
+            "Strategy Game"
+        ],
+        "Amount": 50.3,
+        "PurchaseDate": "2023-09-15",
+        "Discount": 0.06
+    },
+    {
+        "TransactionID": 6,
+        "Games": [
+            "Puzzle Game",
+            "Racing Game",
+            "Role-Playing Game",
+            "Strategy Game",
+            "Adventure Game"
+        ],
+        "Amount": 51.75,
+        "PurchaseDate": "2023-09-14",
+        "Discount": 0.2
+    },
+    {
+        "TransactionID": 7,
+        "Games": [
+            "Horror Game",
+            "Shooter Game",
+            "Indie Game"
+        ],
+        "Amount": 81.07,
+        "PurchaseDate": "2023-09-12",
+        "Discount": 0.12
+    },
+    {
+        "TransactionID": 8,
+        "Games": [
+            "Racing Game",
+            "Platformer Game",
+            "Indie Game"
+        ],
+        "Amount": 58.42,
+        "PurchaseDate": "2023-09-1",
+        "Discount": 0.29
+    },
+    {
+        "TransactionID": 9,
+        "Games": [
+            "Platformer Game",
+            "Action Game",
+            "Horror Game"
+        ],
+        "Amount": 16.38,
+        "PurchaseDate": "2023-09-14",
+        "Discount": 0.17
+    },
+    {
+        "TransactionID": 10,
+        "Games": [
+            "Puzzle Game",
+            "Shooter Game",
+            "Strategy Game"
+        ],
+        "Amount": 52.09,
+        "PurchaseDate": "2023-09-11",
+        "Discount": 0.16
+    }
+]
